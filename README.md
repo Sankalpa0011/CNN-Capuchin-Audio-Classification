@@ -71,9 +71,3 @@ The baseline network demonstrates stable classification boundaries within dense 
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## Academic Reference and Citation
-If this framework contributes to your research or academic publications, please cite the repository as follows:
-```text
-Sankalpa, A. (2026). CNN-Capuchin-Audio-Classification: Deep Learning-Based Bioacoustic Audio Classification Framework. GitHub Repository. https://github.com/Sankalpa0011/CNN-Capuchin-Audio-Classification
-```
